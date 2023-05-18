@@ -1,0 +1,55 @@
+body {
+		background-image: url(tło2.jpg);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size:cover;
+		background-position: center;
+		font-family: Arial;
+		padding: 40px 0px;
+		color: #ffffffc2;
+	}
+	.czerwony {
+		color:#c50101f8
+	}
+	.niebieski{
+		color:#00d3f8;
+	}
+	.zielony{
+		color:#00af0fc2
+	}
+	.duzy1{
+		font-size: 350%;
+	}
+	h1{
+		font-size: 700%;
+	}
+	h2{
+		font-size: 300%;
+	}
+	h3{
+		font-size: 200%;
+	}
+	h4{
+		display: flex;
+		justify-content: center;
+		font-size: 150%;
+	}
+	section, header{
+		padding: 10px 60px 20px 60px;
+		background-color:#242424c2;
+		backdrop-filter:blur(6px);
+		width: 960px;
+		margin: 0 auto;
+	}
+	figure{
+		padding: 0px 60px 0px 60px;
+		margin: auto;
+		display: flex;
+		justify-content: center;
+	}
+	.prawo{
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+		margin-top: 20px;
+	}
